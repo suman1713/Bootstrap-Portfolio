@@ -1,16 +1,9 @@
-footer{
-    height: 80px; 
-    width:100%;
-    position: absolute;
-    left: 0;
-    bottom: 0; 
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: center;
 }
-  .bg-4 { 
-      background-color: #2f2f2f; /* Black Gray */
-      color: #fff;
-  }
-  .container-fluid {
-      padding-top: 20px;
-      padding-bottom: 20px;
-  }
- 
